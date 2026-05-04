@@ -3,11 +3,13 @@
 
 ![snake gif](https://github.com/syrkmd/syrkmd/blob/output/github-snake-dark.svg)
 
-## 🛠️ Tech stack
+<p align="center">
+  🛠️ Tech stack
 
-![Swift](https://img.shields.io/badge/-Swift-black?logo=swift)
-![UIKit](https://img.shields.io/badge/-UIKit-black?logo=apple)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?logo=apple)
-![Java](https://img.shields.io/badge/-Java-black?logo=openjdk)
-![Spring](https://img.shields.io/badge/-Spring-black?logo=spring)
-![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter)
+  ![Swift](https://img.shields.io/badge/-Swift-black?logo=swift)
+  ![UIKit](https://img.shields.io/badge/-UIKit-black?logo=apple)
+  ![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?logo=apple)
+  ![Java](https://img.shields.io/badge/-Java-black?logo=openjdk)
+  ![Spring](https://img.shields.io/badge/-Spring-black?logo=spring)
+  ![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter)
+</p>
