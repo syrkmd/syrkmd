@@ -3,48 +3,11 @@
 
 ![snake gif](https://github.com/syrkmd/syrkmd/blob/output/github-snake-dark.svg)
 
-# 👋 Yvla
-
-📱 iOS Developer (Swift)
-🚀 Разрабатываю мобильные приложения под iOS
-
----
-
-## 🧠 О себе
-
-* 📱 Основной стек: iOS / Swift
-* ⚙️ Дополнительно: Flutter (базово), Spring Boot (базово)
-* 🛠️ Сейчас: работаю над своими проектами
-
----
-
-## 🛠️ Технологии
-
-### 📱 iOS Development
+## 🛠️ Tech stack
 
 ![Swift](https://img.shields.io/badge/-Swift-black?logo=swift)
 ![UIKit](https://img.shields.io/badge/-UIKit-black?logo=apple)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?logo=apple)
-
----
-
-### ⚙️ Backend & Databases
-
 ![Java](https://img.shields.io/badge/-Java-black?logo=openjdk)
 ![Spring](https://img.shields.io/badge/-Spring-black?logo=spring)
-
-* PostgreSQL
-* MongoDB
-
----
-
-### 🧪 Дополнительно
-
 ![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter)
-
----
-
-## 📫 Контакты
-
-* Email: yvla6512@gmail.com
-
