@@ -41,14 +41,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-![stats](https://github-readme-stats.vercel.app/api?username=syrkmd\&show_icons=true\&theme=dark)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syrkmd\&layout=compact\&theme=dark)
-
----
-
 ## 📫 Контакты
 
 * Email: yvla6512@gmail.com
