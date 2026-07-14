@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2\&size=26\&center=true\&vCenter=true\&width=600\&lines=iOS+Developer;Swift+Developer;Building+iOS+Apps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2\&size=26\&center=true\&vCenter=true\&width=600\&lines=Mobile+Developer;Swift,+Kotlin+Developer;Building+iOS,+Android+Apps)
 
 
 ![snake gif](https://github.com/syrkmd/syrkmd/blob/output/github-snake-dark.svg)
