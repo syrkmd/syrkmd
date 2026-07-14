@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-UIKit-black?logo=apple" />
   <img src="https://img.shields.io/badge/-SwiftUI-black?logo=apple" />
   <img src="https://img.shields.io/badge/Kotlin-black?logo=kotlin" >
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" > 
+  <img src="https://img.shields.io/badge/Android-black?logo=android&logoColor=white" > 
   <img src="https://img.shields.io/badge/-Java-black?logo=openjdk" />
   <img src="https://img.shields.io/badge/-Spring-black?logo=spring" />
   <img src="https://img.shields.io/badge/-Flutter-black?logo=flutter" />
